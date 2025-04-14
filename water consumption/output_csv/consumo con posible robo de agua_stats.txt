@@ -1,0 +1,10 @@
+TIME SERIES CHARACTERIZATION
+Mean Consumption: 88.95226130653266
+Median Consumption: 14.0
+Standard Deviation: 149.87469235321834
+Minimum Consumption: 3
+Maximum Consumption: 792
+95th Percentile: 512.0499999999994
+Total Records: 398
+Above Normal Deviations: 25
+Below Normal Deviations: 0
