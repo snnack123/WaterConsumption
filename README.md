@@ -15,3 +15,4 @@ Using machine learning models — especially **XGBoost Regressor** — it predic
 ---
 
 ## 🏗️ Project Structure
+csvs/ # Raw input CSV files (one per CUPS) results/ # Output folders with predictions, RMSE analysis, and plots sarima_forecast.py # Main processing script Anexa_2_completata.docx # Summary report (optional)
