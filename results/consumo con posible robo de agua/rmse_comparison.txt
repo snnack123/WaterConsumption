@@ -1,0 +1,5 @@
+XGBoost Forecast RMSE Breakdown
+------------------------------------
+📊 Full test period RMSE: 322.99 m³/h
+✅ Before anomaly (normal zone) RMSE: 77.37 m³/h
+⚠️  After anomaly (spike zone) RMSE: 589.93 m³/h
