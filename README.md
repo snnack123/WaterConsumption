@@ -20,8 +20,7 @@ Using machine learning models — especially **XGBoost Regressor** — it predic
 ```
 csvs/                  # Raw input CSV files (one per CUPS)
 results/               # Output folders with predictions, RMSE analysis, and plots
-sarima_forecast.py      # Main processing script
-Anexa_2_completata.docx # Summary report (optional)
+forecast.py            # Main processing script
 ```
 
 ---
@@ -75,7 +74,7 @@ pip install pandas numpy matplotlib xgboost scikit-learn
 3. Run the script:
 
 ```bash
-python sarima_forecast.py
+python forecast.py
 ```
 
 4. Outputs will be generated under the `results/` folder.
@@ -109,5 +108,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## ✍️ Author
 
-- **Mihai Lungu**
+- **Mihai Adrian Lungu**
 - 2025
